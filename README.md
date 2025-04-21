@@ -13,7 +13,7 @@ Este é um projeto simples desenvolvido em Java no padrão MVC utilizando o Spri
 
 ## Tecnologias utilizadas
 
-- **Java 17/**
-- **Maven/**
-- **Spring Boot/**
-- **MySQL/**
+- **Java 17**
+- **Maven**
+- **Spring Boot**
+- **MySQL**
